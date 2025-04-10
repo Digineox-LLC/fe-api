@@ -1,0 +1,52 @@
+[
+    {
+      "title": "Stay hungry, stay foolish.",
+      "color": "#A8DADC",
+      "status": "to-do"
+    },
+    {
+      "title": "Simplicity is the ultimate sophistication.",
+      "color": "#F1FAEE",
+      "status": "in-progress"
+    },
+    {
+      "title": "The only way out is through.",
+      "color": "#FFDDD2",
+      "status": "to-do"
+    },
+    {
+      "title": "What we think, we become.",
+      "color": "#CDB4DB",
+      "status": "done"
+    },
+    {
+      "title": "Dream big. Dare bigger.",
+      "color": "#F1FAEE",
+      "status": "in-progress"
+    },
+    {
+      "title": "Everything you can imagine is real.",
+      "color": "#A8DADC",
+      "status": "to-do"
+    },
+    {
+      "title": "Do one thing every day that scares you.",
+      "color": "#FFDDD2",
+      "status": "done"
+    },
+    {
+      "title": "Act as if what you do makes a difference. It does.",
+      "color": "#CDB4DB",
+      "status": "in-progress"
+    },
+    {
+      "title": "Be yourself; everyone else is already taken.",
+      "color": "#F1FAEE",
+      "status": "to-do"
+    },
+    {
+      "title": "Turn your wounds into wisdom.",
+      "color": "#A8DADC",
+      "status": "in-progress"
+    }
+  ]
